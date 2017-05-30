@@ -1,0 +1,6 @@
+name "dgm"
+description "dlang game math library"
+authors "Stephan Dilly"
+copyright "Copyright © 2017, Stephan Dilly"
+license "MIT"
+targetType "staticLibrary"
